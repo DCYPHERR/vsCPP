@@ -1,2 +1,2 @@
 # vsCPP
-Data structures &amp; various algorithms
+Implementations of various data structures and algorithms. 
